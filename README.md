@@ -1,3 +1,3 @@
 # Tasky Todo App
 
-Todo app that helps manage task
+Web Todo app that helps manage task
